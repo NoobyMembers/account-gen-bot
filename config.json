@@ -1,16 +1,16 @@
 {
-  "guild-id": "12345678901011121314",
-  "token": "YOUR_BOT_TOKEN_HERE",
-  "premium-role-id": "12345678901011121314",
+  "guild-id": "1129337028622954606",
+  "token": "MTE0MjE0MjM2MDU1ODUyMjQxOA.G6XJQI.e1Q57gLtfAmBihUaRws99uklJwaecEG_h77N4s",
+  "premium-role-id": "1142739342373163071",
   "premium-cooldown": false,
   "premium-cooldown-duration": 3,
-  "cooldown-duration": 10,
-  "admin-cooldown": true,
+  "cooldown-duration": 30,
+  "admin-cooldown": false,
   "logs-switch": true,
-  "logs-channel-id": "12345678901011121314",
+  "logs-channel-id": "1129337029205970997",
   "channel-specific-switch": true,
-  "premium-gen-channels": ["12345678901011121314", "12345678901011121314"],
-  "free-gen-channels": ["12345678901011121314", "12345678901011121314"],
+  "premium-gen-channels": ["1142739993819881502", "1142739792468115466"],
+  "free-gen-channels": ["1142739840195104808", "1142740124237561936"],
   "messages": {
     "not-supported-channel": "This channel is not supported",
     "account-generated": "Generated account has been sent to your DMs",
@@ -18,6 +18,6 @@
     "stock-description": "All accounts available to be generated.",
     "stock-empty-description": "There aren't any accounts to be generated.",
     "no-permissions": "You don't have access to this command.",
-    "embed-footer": "github.com/Atluzka/account-gen-bot"
+    "embed-footer": ".gg/nooby"
   }
 }
